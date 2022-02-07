@@ -1,6 +1,6 @@
 # Site settings
-title: "Martina Klejchova: Research Associate at the University of Glasgow"
-description: "Martina Klejchova: Research Associate at the University of Glasgow"
+title: "Martina Klejchova: Research Associate"
+description: "Martina Klejchova: Research Associate"
 
 # Build settings
 markdown: kramdown
@@ -17,8 +17,6 @@ resume_title:                   "Research Associate"
 resume_contact_email:           "martina.klejchova@outlook.com"
 
 resume_header_intro: "
-  <em>&#39;If you try hard and it doesn&#39;t work, take a step back to evaluate and try again&#39;.</em>
-
   <p>
     I am a plant biologist with a passion for electrophysiology and plant membrane trafficking. I already found my own niche. Now I am looking for the place where I can implement all my ideas and continue to grow.
   </p>"
@@ -41,7 +39,7 @@ resume_social_links:
   resume_twitter_url:           "https://twitter.com/okrotice"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  #resume_linkedin_url:          "https://www.linkedin.com/in/ondrejklejch"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/ondrejklejch"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://www.martinaklejchova.cz"
   # resume_medium_url:            "https://medium.com/@jglovier"
