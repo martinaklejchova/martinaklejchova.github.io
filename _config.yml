@@ -14,7 +14,7 @@ resume_name:                    "Martina Klejchova"
 resume_title:                   "Research Associate"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "martina.klejchova@outlook.com"
+resume_contact_email:           "martinaklejchova@outlook.com"
 
 resume_header_intro: "
   <p>
