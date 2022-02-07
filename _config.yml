@@ -1,0 +1,55 @@
+# Site settings
+title: "Martina Klejchova: Research Associate at the University of Glasgow"
+description: "Martina Klejchova: Research Associate at the University of Glasgow"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Martina Klejchova"
+resume_title:                   "Research Associate"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "martina.klejchova@outlook.com"
+
+resume_header_intro: "
+  <em>&#39;If you try hard and it doesn&#39;t work, take a step back to evaluate and try again&#39;.</em>
+
+  <p>
+    I am a plant biologist with a passion for electrophysiology and plant membrane trafficking. I already found my own niche. Now I am looking for the place where I can implement all my ideas and continue to grow.
+  </p>"
+
+# Decide which sections to use
+# comment out to hide
+# resume_section_experience:      true
+# resume_section_education:       true
+# resume_section_projects:        true
+# resume_section_skills:          true
+# resume_section_recognition:     true
+# resume_section_links:           true
+# resume_section_associations:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  #resume_github_url:            "https://github.com/ondrejklejch"
+  resume_twitter_url:           "https://twitter.com/okrotice"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  #resume_linkedin_url:          "https://www.linkedin.com/in/ondrejklejch"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://www.martinaklejchova.cz"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
